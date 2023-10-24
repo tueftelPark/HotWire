@@ -9,7 +9,7 @@ Lade die gesamte Repository als .zip Datei herunter. Auf deinem Computer kannst 
 </br>
 
 
-<h4> Erklärungen zu den einzelnen Ordner </h4>
+## Erklärungen zu den einzelnen Ordner 
 
 
 <br/>
@@ -50,4 +50,6 @@ Hier sind Dateien zur Fertigung des autonomen Fahrzeugs zu finden.
 
 Hier sind mögliche Lösungscodes für das autonome Fahrzeug zu finden.
 
+
+## FAQ
 [Zum Anfang der Datei](#anfang)

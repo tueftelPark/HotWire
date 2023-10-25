@@ -8,7 +8,7 @@
 
 <br/>
 
-Lade die gesamte Repository als .zip Datei herunter. Auf deinem Computer kannst du den Ordner entzippen und alle deine Übungen nutzen.
+Lade die gesamte Repository als .zip Datei herunter. Auf deinem Computer kannst du den Ordner entzippen und alle Dateien korrekt ansehen.
 
 </br>
 

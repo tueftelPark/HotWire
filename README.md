@@ -1,6 +1,10 @@
 # Hot Wire
 <a name="anfang"></a>
 
+<div style="text-align:center;">
+  <img src="DSCF5911.JPG" alt="TüftelRobo">
+</div>
+
 
 <br/>
 
